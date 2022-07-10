@@ -1,5 +1,5 @@
 # Data Scientist
-Проекты по [курсу](https://practicum.yandex.ru/data-scientist/) Data Science от Яндекс.Практикум
+Projects from the Data Science [course](https://practicum.yandex.ru/data-scientist/) by Yandex
 
 | № | Sprint | Project | Description | Stack |
 | - | ------ | ------- | ----------- | ----- |
