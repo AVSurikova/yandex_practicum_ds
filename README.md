@@ -1,2 +1,2 @@
-# yandex_practicum_ds
-Проекты по курсу Data Science от Яндекс.Практикум
+# Data Scientist
+Проекты по [курсу](#https://practicum.yandex.ru/data-scientist/) Data Science от Яндекс.Практикум
