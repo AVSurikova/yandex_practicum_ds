@@ -3,39 +3,35 @@ Projects from the Data Science [course](https://practicum.yandex.ru/data-scienti
 
 ## Sprint #10 - Linear Algebra
 
-The Sure Tomorrow insurance company wants to protect its clients' data. Your task is to develop a data transforming algorithm that would make it hard to recover personal information from the transformed data. This is called data masking, or data obfuscation. You are also expected to prove that the algorithm works correctly. Additionally, the data should be protected in such a way that the quality of machine learning models doesn't suffer. You don't need to pick the best model. Follow these steps to develop a new algorithm:
+You need to protect the customer data of the insurance company "Though the flood". Develop a method of data transformation so that it is difficult to recover personal information from them. Justify the correctness of his work. It is necessary to protect the data so that the quality of machine learning models does not deteriorate during the conversion. There is no need to select the best model. Follow these steps to develop a new algorithm:
 
-construct a theoretical proof using properties of models and the given task;
-formulate an algorithm for this proof;
-check that the algorithm is working correctly when applied to real data.
+* construct a theoretical proof using properties of models and the given task;
+* formulate an algorithm for this proof;
+* check that the algorithm is working correctly when applied to real data.
 
 **Stack:** `Python`, `Pandas`, `NumPy`, `Sklearn`
 
 ## Sprint #9 - Integrated project 2
 
-Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore. You have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters. You need to:
-
-Prepare the data;
-Perform data analysis;
-Develop and train a model. To complete the project, you may want to use documentation from pandas, matplotlib, and sklearn. The next lesson is about the ore purification process. You will pick the information that is important for the model development.
+The goal of the project is to prepare a prototype of a machine learning model for an industrial enterprise, which will help optimize production so as not to launch an enterprise with unprofitable characteristics. The model should predict the recovery rate of gold from gold-bearing ore. At the disposal of the data with the parameters of extraction and purification.
 
 **Stack:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `CatBoost`
 
 ## Sprint #8 - Machine Learning for Business
 
-You work for the OilyGiant mining company. Your task is to find the best place for a new well. Steps to choose the location: Collect the oil well parameters in the selected region: oil quality and volume of reserves; Build a model for predicting the volume of reserves in the new wells; Pick the oil wells with the highest estimated values; Pick the region with the highest total profit for the selected oil wells. You have data on oil samples from three regions. Parameters of each oil well in the region are already known. Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
+The oil company needs to decide where to drill a new well. Oil samples are available in three regions: in each 10,000 fields, where the quality of oil and the volume of its reserves were measured. The goal is to build a machine learning model that will help determine the region where mining will bring the greatest profit. Analyze possible profits and risks with the Bootstrap technique.
 
 **Stack:** `Python`, `Pandas`, `NumPy`, `SciPy`, `Sklearn`
 
 ## Sprint #7 - Supervised learning
 
-Beta Bank customers are leaving: little by little, chipping away every month. The bankers figured out it’s cheaper to save the existing customers rather than to attract new ones. We need to predict whether a customer will leave the bank soon. You have the data on clients’ past behavior and termination of contracts with the bank. Build a model with the maximum possible F1 score. To pass the project, you need an F1 score of at least 0.59. Check the F1 for the test set. Additionally, measure the AUC-ROC metric and compare it with the F1.
+The bank faced a problem - customers began to leave. Marketers have decided that it is cheaper to retain current customers than to attract new ones. The goal is to predict whether the client will leave the bank in the near future or not. It is necessary to build a model with a sufficient value of F1-measure (at least 0.59), and for the constructed model to measure AUC-ROC, and compare its value with F1-measure. Historical data on customer behavior and termination of contracts with the bank are available.
 
 **Stack:** `Python`, `Pandas`, `Sklearn`, `Imblearn`
 
 ## Sprint #6 - Introduction to machine learning
 
-Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model. Develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
+The mobile operator wants to build a system capable of analyzing customer behavior and offering a new tariff: "Smart" or "Ultra". The goal is to build a model for the classification problem with the highest accuracy value, which will choose the appropriate tariff.
 
 **Stack:** `Python`, `Pandas`, `Sklearn`
 
