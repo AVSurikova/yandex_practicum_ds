@@ -45,7 +45,7 @@ Projects from the Data Science [course](https://practicum.yandex.ru/data-scienti
 
 **Description:** The mobile operator offers customers two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the operator needs to understand which tariff brings more money. The goal is to analyze the behavior of customers and make a conclusion - which tariff is better. To do this, a preliminary analysis of tariffs was carried out on a small sample of customers. The data of 500 users of the operator is available: who they are, from where, what tariff they use, how many calls and messages each sent in 2018.
 
-**Stack:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly, `SciPy`
+**Stack:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `SciPy` 
 
 ## Sprint #3 - Exploratory Data Analysis (EDA)
 
