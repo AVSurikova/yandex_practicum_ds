@@ -1,7 +1,6 @@
 # Data Scientist
 Проекты по [курсу](https://practicum.yandex.ru/data-scientist/) Data Science от Яндекс.Практикум
 
-## Sprint #11 - Linear Algebra
 | № | Спринт                          | Проект                            | Описание     | Инструменты  |
 | - | ------------------------------- | --------------------------------- | ------------ | ------------ |
 | 1 | Data Preprocessing            | Исследование надежности заемщиков | Content Cell | Content Cell |
