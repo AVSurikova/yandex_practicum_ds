@@ -3,7 +3,7 @@
 
 | № | Sprint | Project | Description | Stack |
 | - | ------ | ------- | ----------- | ----- |
-| 1 | Data Preprocessing | Investigation of the reliability of borrowers | Content Cell | Content Cell |
+| 1 | Data Preprocessing | Investigation of the reliability of borrowers | Research of statistics on the solvency of customers. The influence of the marital status and the number of children of the client on the fact of repayment of the loan on time | Content Cell |
 | 2 | Exploratory Data Analysis (EDA) | Real estate market Research | Content Cell | Content Cell |
 | 3 | Statistical data analysis | Determining a favorable tariff for a telecom company | Content Cell | Content Cell |
 | 4 | Integrated Project 1 | Analysis of the computer games market | Content Cell | Content Cell |
