@@ -2,7 +2,7 @@
 Projects from the Data Science [course](https://practicum.yandex.ru/data-scientist/) by Yandex
 
 ## Sprint #10 - Linear Algebra
-[![Open in GitHub](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png)](http://example.com/)
+[![Open in GitHub](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png/150x100)](http://example.com/)
 
 The Sure Tomorrow insurance company wants to protect its clients' data. Your task is to develop a data transforming algorithm that would make it hard to recover personal information from the transformed data. This is called data masking, or data obfuscation. You are also expected to prove that the algorithm works correctly. Additionally, the data should be protected in such a way that the quality of machine learning models doesn't suffer. You don't need to pick the best model. Follow these steps to develop a new algorithm:
 
